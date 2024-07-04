@@ -13,3 +13,5 @@
 <p>GAMBAR 1</p>
 
 ![logo](https://github.com/BagasRozzaqFadli/bajalbajal1/assets/136241026/3805caa7-3e2b-4f3a-b7d1-667d2c59ebce)
+
+![kategori buku](https://github.com/BagasRozzaqFadli/bajalbajal1/assets/136241026/5e2f5fe4-62e9-44a5-91c4-7bc4e42858bb)

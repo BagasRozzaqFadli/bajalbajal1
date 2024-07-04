@@ -9,6 +9,12 @@
 
 ![adminspiral](https://github.com/BagasRozzaqFadli/bajalbajal1/assets/136241026/858ed57a-a824-49aa-9d85-d69bfe70c5b8)
 
+<H1>cONTOH gAMBAR</H1>
+<p>GAMBAR 1</p>
+
+![logo](https://github.com/BagasRozzaqFadli/bajalbajal1/assets/136241026/3805caa7-3e2b-4f3a-b7d1-667d2c59ebce)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
